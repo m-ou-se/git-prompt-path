@@ -56,7 +56,7 @@ be escaped inside the format string with another `%`.)
 ## License
 
 The code is licensed under the 2-clause BSD license.
-See the header of git-prompt-path.sh.
+See the header of `git-prompt-path.sh`.
 
 ### Authors
 
