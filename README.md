@@ -46,7 +46,7 @@ These will use the default colours. To use it without colour, call
 Alternatively, to use your own colours, put them in the format string:
   `$(git_prompt_path "...%s...%s...")...`
 Make sure to surround the colour codes with the right escape sequences for
-your shell. (`[` and `\]` for bash, `%{` and `%}` for zsh. Note that the `%`s need to
+your shell. (`\[` and `\]` for bash, `%{` and `%}` for zsh. Note that the `%`s need to
 be escaped inside the format string with another `%`.)
 
 [1]: https://raw.githubusercontent.com/m-ou-se/git-prompt-path/screenshot/example-output.png
