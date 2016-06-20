@@ -30,6 +30,7 @@ and `git-prompt-path.sh` from this repository:
 
 And then for `zsh`:
 
+    setopt prompt_subst
     PROMPT='$(git_prompt_path)$ '
 
 
